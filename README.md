@@ -7,7 +7,7 @@ Student- Madalena Rio
 This webpage was created has an evaluation exercise in the context of a webdeveloper training program followed in Ghent, Belgium, at BECODE.ORG campus-Ghent.
 made by student from "YU-4" classroom: Madalena Rio
 
-# Main objective of tne evaluation:
+# Main objective of the evaluation:
 
  Assess the student current JavaScript level, evolution and insight in coding.
 
